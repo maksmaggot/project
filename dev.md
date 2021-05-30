@@ -1,1 +1,1 @@
-# dev mode
+# dev mode description
